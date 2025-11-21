@@ -16,11 +16,11 @@ st.markdown("Utiliza el control deslizante para navegar a través de los diferen
 # Se define un diccionario que mapea el valor del slider (1 a 5) a la ruta de la imagen
 # La ruta es relativa a la carpeta 'timeline_images' que debe estar en el mismo nivel que 'app.py'
 IMAGE_MAP = {
-    1: "timeline_images/1.jpg",
-    2: "timeline_images/2.jpg",
-    3: "timeline_images/3.jpg",
-    4: "timeline_images/4.jpg",
-    5: "timeline_images/5.jpg",
+    1: "timeline_images/1.PNG",
+    2: "timeline_images/2.PNG",
+    3: "timeline_images/3.PNG",
+    4: "timeline_images/4.PNG",
+    5: "timeline_images/5.PNG",
 }
 
 # Definición de etiquetas descriptivas para cada punto
