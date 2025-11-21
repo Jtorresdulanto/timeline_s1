@@ -7,11 +7,11 @@ st.title("Timeline con Slider (5 puntos)")
 # URLs de las imágenes almacenadas en tu repositorio de GitHub.
 # IMPORTANTE: Reemplaza "TU_USUARIO", "TU_REPO", y las imágenes correspondientes.
 img_urls = {
-    1: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen1.jpg",
-    2: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen2.jpg",
-    3: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen3.jpg",
-    4: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen4.jpg",
-    5: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen5.jpg",
+    1: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen1.png",
+    2: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen2.png",
+    3: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen3.png",
+    4: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen4.png",
+    5: "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/timeline_images/imagen5.png",
 }
 
 # Slider con 5 puntos
